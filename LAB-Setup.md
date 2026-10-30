@@ -44,6 +44,15 @@ Connection was successful
 
 <img src="connectivity.png" width="600" alt="Test Connectivity">
 
+## Snapshot and Recovery
+I took 2 snapshots for recovery and to capture the information i have added and also save the receipts of the commands i have prompted.
+
+Snapshot 1
+<img src="snap.png" width="600" alt="Recovery">
+Snapshot 2
+<img src="snapshot.png" width="600" alt="Recovery">
+
+
 ## Key Tasks completed
 
 - installed 7-Zip
