@@ -49,11 +49,11 @@ I took 2 snapshots for recovery and to capture the information i have added and 
 
 Snapshot 1
 
-<img src="snap.png" width="300" alt="Recovery">
+<img src="snap.png" width="400" alt="Recovery">
 
 Snapshot 2
 
-<img src="snapshot.png" width="300" alt="Recovery">
+<img src="snapshot.png" width="400" alt="Recovery">
 
 
 ## Key Tasks completed
