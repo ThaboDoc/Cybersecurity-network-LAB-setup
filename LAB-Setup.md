@@ -15,7 +15,7 @@ I have setup the NatNetwork on the VirtualBox with the DHCP Server enabled to al
 After installing Kali linux i chose the GUI interface and changed it network settings on virtualBox to NatNetwork.
 In an expect mode when choosing the NatNetwork this shows below:
 
-<img src="nat.png" width="600" alt="Network Setup">
+<img src="nat.png" width="650" alt="Network Setup">
 
 ## 4. Kali Linux Network Setup
 
@@ -26,7 +26,7 @@ I prompted the commands on the terminal to add the IP addresses
 
 This is the output of the addresses added:
 
-<img src="ip.png" width="600" alt="Network IP Address">
+<img src="ip.png" width="650" alt="Network IP Address">
 
 Then the network restarted
 ## 5. Network Testing
@@ -49,11 +49,11 @@ I took 2 snapshots for recovery and to capture the information i have added and 
 
 Snapshot 1
 
-<img src="snap.png" width="400" alt="Recovery">
+<img src="snap.png" width="600" alt="Recovery">
 
 Snapshot 2
 
-<img src="snapshot.png" width="400" alt="Recovery">
+<img src="snapshot.png" width="600" alt="Recovery">
 
 
 ## Key Tasks completed
