@@ -48,9 +48,12 @@ Connection was successful
 I took 2 snapshots for recovery and to capture the information i have added and also save the receipts of the commands i have prompted.
 
 Snapshot 1
-<img src="snap.png" width="600" alt="Recovery">
+
+<img src="snap.png" width="300" alt="Recovery">
+
 Snapshot 2
-<img src="snapshot.png" width="600" alt="Recovery">
+
+<img src="snapshot.png" width="300" alt="Recovery">
 
 
 ## Key Tasks completed
