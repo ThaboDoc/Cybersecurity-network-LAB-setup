@@ -14,6 +14,8 @@ I have setup the Nat network on Vurtual Box with the DHCP Server enabled to allo
 ## 3. Kali linux Setup
 After installing Kali linux i chose the GUI interface and changed it network settings on virtualBox to NatNetwork.
 
+<img src="nat.png" width="600" alt="Network Setup">
+
 ## 4. Kali Linux Network Setup
 
 I prompted the commands on the terminal to add the IP addresses
