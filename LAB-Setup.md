@@ -7,7 +7,7 @@ Create isolated cybersecurity Lab network with a network address of 10.0.0.0/24
   
 ## 2. VirtualBox Setup
 I have setup the Nat network on Vurtual Box with the DHCP Server enabled to aallow automatic IP assignment for devices that will be added in future 
-![NatNetwork Setup](images/vm.png)
+![NatNetwork Setup](vm.png)
 
 ## 3. Kali linux Setup
 After installing Kali linux i chose the GUI interface and changed it network settings on virtualBox to NatNetwork.
