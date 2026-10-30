@@ -25,6 +25,7 @@ I prompted the commands on the terminal to add the IP addresses
 - sudo nmcli con up "Wired connection 1"
 
 This is the output of the addresses added:
+
 <img src="ip.png" width="600" alt="Network IP Address">
 
 Then the network restarted
@@ -37,7 +38,11 @@ I Ping the google network connectivity:
 -Ping -c 3 8.8.8.8
 -ping -c 3 google.com
 
+<img src="test.png" width="600" alt="Test Connectivity">
+
 Connection was successful
+
+<img src="connectivity.png" width="600" alt="Test Connectivity">
 
 ## Key Tasks completed
 
