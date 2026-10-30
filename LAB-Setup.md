@@ -6,13 +6,14 @@ Create isolated cybersecurity Lab network with a network address of 10.0.0.0/24
 - Kali Linux PC : 10.0.0.2 as a static address
   
 ## 2. VirtualBox Setup
-I have setup the Nat network on Vurtual Box with the DHCP Server enabled to allow automatic IP assignment for devices that will be added in future
+I have setup the NatNetwork on the VirtualBox with the DHCP Server enabled to allow automatic IP assignment for devices that will be added in future :
 
 
 <img src="vm.png" width="600" alt="Network Setup">
 
 ## 3. Kali linux Setup
 After installing Kali linux i chose the GUI interface and changed it network settings on virtualBox to NatNetwork.
+In an expect mode when choosing the NatNetwork this shows below:
 
 <img src="nat.png" width="600" alt="Network Setup">
 
@@ -22,6 +23,9 @@ I prompted the commands on the terminal to add the IP addresses
 - sudo nmcli con mod "Wired connection 1" ipv4.addresses 10.0.0.2/24 ipv4.gateway 10.0.0.1 ipv4.dns "8.8.8.8,1.1.1.1"
 - sudo nmcli con down "Wired connection 1"
 - sudo nmcli con up "Wired connection 1"
+
+This is the output of the addresses added:
+<img src="ip.png" width="600" alt="Network IP Address">
 
 Then the network restarted
 ## 5. Network Testing
